@@ -9,3 +9,5 @@ end
 def pretty_print_nds(nds)
   nil
 end
+
+pp movie
