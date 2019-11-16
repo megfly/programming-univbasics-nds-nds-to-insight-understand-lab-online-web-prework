@@ -9,3 +9,5 @@ end
 def pretty_print_nds
 pp nds 
 end
+
+pp movies
