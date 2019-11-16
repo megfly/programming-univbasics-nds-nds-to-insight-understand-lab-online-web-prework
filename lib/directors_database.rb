@@ -8,5 +8,4 @@ end
 
 def pretty_print_nds(nds)
   pp nds
-    nil
 end
