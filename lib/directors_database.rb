@@ -6,5 +6,5 @@ def directors_database
 end
 
 def pretty_print_nds(nds)
-  pp pretty_print_nds
+  pp_called_flag
 end
